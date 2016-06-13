@@ -1,2 +1,10 @@
 # uncompresser
-The tool for zipping and unzipping files. 
+__
+WORK IN PROGRESS
+__
+The python tool for zipping and unzipping files. 
+
+Support For :
+Zipping:
+
+Unzipping:
